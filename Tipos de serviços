@@ -1,0 +1,9 @@
+Tipos de serviços Azure
+IaaS - é demanda muito da equipe técnica ao definir servidores, máquinas virtuais, armazenamento, redes e sistemas operacionas.
+PaaS - já em nese modelo é eliminado a gestão da infraestrutura e o foco passa a ser criação, teste e implantação de softwares.
+SaaS - não há precupação com a gestão de infraestrutura e nem tão pouco com a parte de desenvolvimento de software, apenas em sua utilização. Ex: correio elêtronico.
+
+Comparação
+IaaS - mais flexivel, configuração e gestão do hardware é de responsabilidade do cliente.
+PaaS - o foco é desenvolvimento e todo o gerenciamento de plataforma é realizado pelo provedor cloud.
+SaaS - os clientes pagam conforme o uso pelo software.
