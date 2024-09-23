@@ -1,0 +1,9 @@
+Componentes de arquitetura do Azure
+Criação Grupo de Recursos e VNET.
+- Grupo de Recursos-
+  a) Acessar a URL: https://azure.microsoft.com/en-us/ e realizar login.
+  b) Menu do portal -> Grupo de Recursos -> Criar. As demais informações que devem ser preenchidas seguir o link: https://learn.microsoft.com/pt-br/azure/azure-resource-manager/management/manage-resource-groups-portal.
+
+- VNET  
+  a) Acessar a URL: https://azure.microsoft.com/en-us/ e realizar login
+  b) Menu do portal -> Redes Virtuais -> Criar. Seguir as orientações contidas no site:https://learn.microsoft.com/pt-br/azure/virtual-network/virtual-networks-overview
