@@ -1,0 +1,34 @@
+A Computação do Azure fornece recursos de de computação, exemplos: discos, processadores, memória, rede e SO.
+1) Máquinas Virtuais
+As VM do Azure são emulações de software de computadores físicos e como tais possuem processador, memória, armazenamento e rede, todos virtuais.
+Das opções de tipos de serviços,  IaaS é opção que possibilita maior personalização e controle.
+
+2) Dimensionamento
+Com o dimensionamento de máquinas virtuais há a possibilidade do balanceamento de carga concedendo dimensionamento de recursos de forma automatica.
+Os conjuntos de dimensionamento podem ser escalados de duas formas:
+a) Horizontal - quando o recurso precisar aumentar.
+b) Vertical - quando o recurso precisar diminuir.
+
+3)Área de Trabalho do Azure
+Recurso de virtualização de área de trabalho e aplicativo. São algumas vantangens desse recurso a criação de ambiente completo de virtualização da área de trabalho, implantação de várias sessões, diminuição de dispositivos não atenderem os requisitos necessários para utilização.
+
+4) Conteineres
+São ambientes leves e virtualizados que não exigem o gerenciamento do SO e pode responder a alterações sob demanda. É possível possuir várias aplicações(microserviços) independentes.
+
+5) Serviço de Kubernetes do Azure
+Serviço de osquestração de conteineres com arquiteturas distribuídas e grandes volumes.
+
+6) Azure Functions
+Entregue no modelo PaaS e dá suporte a operações de computação sem servidor.
+
+7) Serviços de Rede
+As VNets permitem que os recursos do Azure se comuniquem uns com os outros com a Internet e com as redes locais. 
+As sub-redes virtuais são utilizadas na segmentação de rede do cliente. O emparelhamento de rede conecta as redes privadas de forma direta.
+
+8) Gateway de VPN
+Recurso utilizado para enviar tráfego criptografado entre Azure e rede local através da internet pública.
+
+9) ExpressRoute
+Recurso que possibilita estender as redes locais para o Azure de meio de conexão privada.
+
+
