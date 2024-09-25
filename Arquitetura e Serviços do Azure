@@ -1,4 +1,4 @@
-A Computação do Azure fornece recursos de de computação, exemplos: discos, processadores, memória, rede e SO.
+A Computação do Azure fornece recursos de computação, exemplos: discos, processadores, memória, rede e SO.
 1) Máquinas Virtuais
 As VM do Azure são emulações de software de computadores físicos e como tais possuem processador, memória, armazenamento e rede, todos virtuais.
 Das opções de tipos de serviços,  IaaS é opção que possibilita maior personalização e controle.
