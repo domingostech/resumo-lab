@@ -1,0 +1,34 @@
+Armazenamento no Azure
+Critérios:
+  1) Deve possuir um nome exclusivo global.
+Quanto a Redundância deve-se considerar os tipos:
+  a)LRS (armazenamento com redundância local) 
+  b)ZRS (armazenamento com redundância de zona)
+  c)GRS (armazenamento com redundância geográfica)
+  d)GZRS (armazenamento com redundância de zona geográfica)
+
+Tipos de serviços de armazenamento do Azure:
+  Blob do Azure - otimizado para o armazenamento de quantidades massivas de dados não estruturados, como texto ou dados binários.
+  Disco do Azure - fornece discos para máquinas virtuais, aplicativos e outros serviços acessarem e utilizarem.
+  Fila do Azure - serviço de armazenamento de mensagens que fornece armazenamento e recuperação para grandes quantidades de mensagens, cada uma com até 64 KB.
+  Arquivos do Azure - configura um compartilhamento de arquivos de rede altamente disponível que pode ser utilizado usando o protocolo Bloco de Mensagens do Servidor.
+  Tabelas do Azure - fornece uma opção de chave/atributo para o armazenamento de dados estruturados não relacionais com um design sem esquema.
+
+Camadas de Acesso de Armazenamento do Azure.
+  Frequente - otimizada para armazenamento de dados acessados com frequência.
+  Esporádico - otimizada para armazenamento de dados acessados com pouca frequência e armazenados por pelo menos 30 dias.
+  Frio - Otimizado para o armazenamento de dados acessados com pouca frequência e armazenados por pelo menos 90 dias.
+  Arquivo Morto - otimizada para armazenamento de dados acessados raramente e armazenados por pelo menos 180 dias com requisitos de latência flexíveis.
+
+Gerenciamento
+AzCopy
+  Utilitário de linha de comando.
+  Copia blobs ou arquivos de  ou para sua conta de armazenamento.
+  Sincronização em uma direção.
+
+Gerenciador de Armazenamento de Azure
+  Semelhante ao Windows Explorer (GUI)
+  Compatível com Windows, MacOS e Linux
+
+
+  
