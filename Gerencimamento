@@ -1,0 +1,13 @@
+Gerenciamento e Governança
+Fatores que afetam os custos:
+a) Tipo de recurso - os custos são específicos do recurso, portanto, o uso que um medidor rastreia e o número de medidores associados a um recurso, dependendo do tipo de recurso.
+b) Consumo - com um modelo pago conforme o uso, o consumo é um dos maiores geradores de custos.
+c) Manutenção - monitorar seu volume do Azure e manter seu ambiente pode ajudá-lo a identificar e reduzir os custos que não são necessários,  como ao desligar máquinas virtuais subutilizadas.
+d) Área geográfica - o mesmo tipo de recurso pode custar valores diferentes dependendo da área geográfica, o que afeta os custos do Azure.
+e) Tráfego de rede - embora algumas transferências de dados de entrada sejam gratuitas, o custo para dados de saída ou dados entre recursos do Azure é afetado por zonas de cobrança.
+f) Assinatura - o tipo e a configuração da assinatura também podem afetar o custo. Por exemplo, a avaliação gratuita permite explorar alguns recursos do Azure gratuitamente.
+
+Azure Marketplace - permite que os clientes encontrem, experimentem, comprem e provisionem aplicativos e serviços de centenas de provedores de serviços líderes, que são todos certificados para execução no Azure.
+
+Calculadora de Preços - é uma ferramenta que ajuda a estimar o custo dos produtos do Azure.
+
