@@ -1,0 +1,22 @@
+Módulo III - Gerenciamento e Implantação
+
+####### Ferramentas de implantação de recursos ########
+--> Portal, PowerShell, CLI e outras
+--> Azure Arc e Azure Resource Manager
+
+####### Azure Resource Manager #########
+    O ARM (Azure Resource Manager) fornece uma camada de gerenciamento que permite criar, atualizar e excluir recursos na assinatura do Azure.
+	
+######## Infraestrutura como código ######
+--> Garanta consistência na implantação em todo o ecossistema de nuvem.
+--> Gerencie a configuração em escala.
+--> Provisione rapidamente ambientes adicionais com base em uma configuração e um build padrão.
+
+######### Modelos do ARM (Azure Resource Manager) ########
+    Os modelos do ARM (Azure Resource Manager) são arquivos JSON (JavaScript Object Notation) que podem ser usados para criar e implantar a infraestrutura do Azure sem a necessidade de escrever comandos de programação.
+--> Sintaxe declarativa
+--> Resultados repetíveis
+--> Orquestração
+--> Arquivos modulares
+--> Validação integrada
+--> Código exportável
