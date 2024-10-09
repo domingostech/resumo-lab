@@ -1,0 +1,21 @@
+##################### Ferramentas de Monitoramento #####################
+
+--> Assistente do Azure
+--> Integridade do Serviço do Azure 
+--> Azure Monitor
+
+1) Assistente do Azure
+O Assistente do Azure analisa recursos implantados do Azure e faz recomendações com base nas práticas recomendadas para otimizar as implantações do Azure. 
+--> Confiabilidade
+--> Segurança
+--> Desempenho
+--> Custo
+--> Excelência operacional 
+
+2) Integridade do Serviço do Azure
+  a)A Integridade do Serviço do Azure é uma coleção de serviços que mantêm você informado sobre  o status geral do Azure, status de serviços que podem afetar você e o status de recurso específico que está afetando você.
+  b)Status do Azure: visão global da integridade de todos os serviços do Azure em todas as regiões do Azure.
+  c)Resource Health: exibição personalizada dos recursos reais do Azure. Ele fornece informações sobre a integridade de seus recursos de nuvem individuais.
+
+3) Azure Monitor
+O Azure Monitor maximiza a disponibilidade e o desempenho de aplicativos e serviços coletando, analisando e tomando decisões com base na telemetria da nuvem e de ambientes locais. 
